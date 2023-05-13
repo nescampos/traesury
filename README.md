@@ -7,6 +7,7 @@ Træsury is a Club Investment platform to manage funds (treasury) in æternity b
 - Blockchain: Aeternity Testnet
 - Smart Contract ID: [ct_yDEFosoW9EsrXDTGs2rq7WwaxvR2XXB8hw1tZgkEaDZyUGaNY](https://explorer.testnet.aeternity.io/contracts/transactions/ct_yDEFosoW9EsrXDTGs2rq7WwaxvR2XXB8hw1tZgkEaDZyUGaNY)
 - Wallet: For now it uses the keys within the platform with local storage in the browser, but the next version will include the connection to Superhero Wallet.
+- Video demo: https://youtu.be/RGxsrhdcYb8 
 
 ## License
 ----
