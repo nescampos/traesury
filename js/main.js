@@ -651,7 +651,7 @@ async function getMyClubs() {
         table.className = 'table';
         table.appendChild(thead);
 
-      clubs.decodedResult.forEach((valor) => {
+      myclubs.forEach((valor) => {
         var tbodyTr = document.createElement('tr');
         var contractTd = document.createElement('td');
         contractTd.innerHTML = "<a class='btn btn-success' onclick='changeClub(" + valor.id + ")''>"+valor.id+"</a>";
